@@ -51,13 +51,12 @@ Build phylogenetic trees to understand species relationships
 
 ## 🙏 Acknowledgments
 
--Dr. Piyush Kumar Yadav
+- Dr. Piyush Kumar Yadav
 - BioPython development team
 - NCBI for database access
 - Google Colab for free computing resources
 - All contributors and users
 
 
----
 
-**⭐ Star this repository if you find it helpful!**
+
